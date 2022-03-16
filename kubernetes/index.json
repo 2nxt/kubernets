@@ -17,7 +17,7 @@
       },{
         "title": "create more",
         "courseData": "step3/pre.sh",
-        "code": "step3/pre.sh",
+        "code": "step3/forground.sh",
         "text": "step3/text.md"
       }
     ],
