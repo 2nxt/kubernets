@@ -17,7 +17,7 @@
       },
       {
         "title": "Configuring",
-        "verify": "step3/pre.sh"
+        "background": "step3/pre.sh"
       },
       {
         "title": "create more",
