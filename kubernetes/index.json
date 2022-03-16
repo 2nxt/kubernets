@@ -17,7 +17,7 @@
       },{
         "title": "create more",
         "text": "step3/text.md",
-        "foreground": "step3/pre.sh"
+        "code": "step3/pre.sh"
       }
     ],
     "finish": {
