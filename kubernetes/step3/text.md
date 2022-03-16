@@ -1,2 +1,17 @@
+How many pods are created now? 
 
-Delete the pod called `my-pod`
+
+Note: We have created a few more pods. So please check again.
+
+
+
+
+
+
+
+
+
+
+
+help
+[`kubectl get pod`]

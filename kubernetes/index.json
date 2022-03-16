@@ -1,6 +1,6 @@
 {
   "title": "Kubernetes - pods",
-  "description": "THis is a lab-1",
+  "description": "This is a lab-1",
   "details": {
     "intro": {
       "text": "intro.md"
@@ -16,9 +16,9 @@
         "verify": "step2/verify.sh"
       },
       {
-        "title": "Delete a pod",
-        "text": "step3/text.md",
-        "verify": "step3/verify.sh"
+        "title": "create more",
+        "verify": "step3/pre.sh",
+        "text": "step3/text.md"
       }
     ],
     "finish": {
