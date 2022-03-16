@@ -7,8 +7,9 @@
     },
     "steps": [
       {
-        "title": "Configuring",
-        "foreground": "step3/pre.sh"
+        "title": "create more",
+        "text": "step3/text.md",
+        "background": "step3/pre.sh"
       },
       {
         "title": "Check pods are available in cluster",
@@ -20,8 +21,7 @@
         "verify": "step2/verify.sh"
       },
       {
-        "title": "create more",
-        "text": "step3/text.md"
+        
       }
     ],
     "finish": {
