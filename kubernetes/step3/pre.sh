@@ -1,4 +1,4 @@
 #!/bin/bash
 
 
-kubectl apply -f ./4pod.yml
+kubectl apply -f 4pod.yml

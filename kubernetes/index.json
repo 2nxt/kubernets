@@ -17,7 +17,7 @@
       },
       {
         "title": "create more",
-        "verify": "step3/pre.sh",
+        "background": "step3/pre.sh",
         "text": "step3/text.md"
       }
     ],
