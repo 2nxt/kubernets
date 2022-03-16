@@ -9,7 +9,7 @@
       {
         "title": "create more",
         "text": "step3/text.md",
-        "code": "step3/pre.sh"
+        "forground": "step3/pre.sh"
       },
       {
         "title": "Check pods are available in cluster",
