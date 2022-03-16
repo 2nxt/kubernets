@@ -1,4 +1,3 @@
-# Killercoda Scenario Examples
+# Killercoda Scenario 
 
-See these in action here: https://killercoda.com/examples
 
