@@ -1,3 +1,3 @@
 #!/bin/bash
 
-kubectl get pod my-pod
+if kubectl get pod my-pod; then exit 1; fi

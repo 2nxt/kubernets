@@ -1,2 +1,15 @@
 
-Delete the pod called `my-pod`
+Create a pod called `my-pod` using nginx image
+
+
+
+
+
+
+
+
+
+
+
+help
+[`kubectl run my-pod --image=nginx`]
