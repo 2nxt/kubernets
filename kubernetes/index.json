@@ -1,20 +1,24 @@
 {
-  "title": "Kubernetes 2node multi-step verification",
-  "description": "Uses a two node Kubernetes cluster and performs user input verification in all steps",
+  "title": "Kubernetes - pods",
+  "description": "THis is a lab-1",
   "details": {
     "intro": {
       "text": "intro.md"
     },
     "steps": [
       {
-        "title": "Create a pod",
-        "text": "step1/text.md",
-        "verify": "step1/verify.sh"
+        "title": "Check pods are available in cluster",
+        "text": "step1/text.md"
       },
       {
         "title": "Delete a pod",
         "text": "step2/text.md",
         "verify": "step2/verify.sh"
+      },
+      {
+        "title": "Delete a pod",
+        "text": "step3/text.md",
+        "verify": "ste3/verify.sh"
       }
     ],
     "finish": {
