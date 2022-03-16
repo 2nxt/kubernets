@@ -8,7 +8,7 @@
     "steps": [
       {
         "title": "Configuring",
-        "foreground": "pre.sh"
+        "foreground": "step3/pre.sh"
       },
       {
         "title": "Check pods are available in cluster",
