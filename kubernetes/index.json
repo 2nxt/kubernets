@@ -11,13 +11,16 @@
         "text": "step1/text.md"
       },
       {
-        "title": "Delete a pod",
+        "title": "Create a pod",
         "text": "step2/text.md",
         "verify": "step2/verify.sh"
       },
       {
+        "title": "Configuring",
+        "verify": "step3/pre.sh"
+      },
+      {
         "title": "create more",
-        "background": "step3/pre.sh",
         "text": "step3/text.md"
       }
     ],
