@@ -1,6 +1,6 @@
 {
-  "title": "Kubernetes 1node",
-  "description": "Use a simple one node Kubernetes cluster and let user list all pods",
+  "title": "Time to wrk with pod",
+  "description": "Use a simple pod tasks",
   "details": {
     "intro": {
       "text": "intro.md"
