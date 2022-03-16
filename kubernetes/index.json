@@ -18,7 +18,7 @@
       {
         "title": "Delete a pod",
         "text": "step3/text.md",
-        "verify": "ste3/verify.sh"
+        "verify": "step3/verify.sh"
       }
     ],
     "finish": {
