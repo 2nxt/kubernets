@@ -3,10 +3,7 @@
   "description": "This is a lab-1",
   "details": {
     "intro": {
-      "text": "intro.md",
-      "courseData": "background.sh",
-      "code": "foreground.sh",
-      "credits": ""
+      "text": "intro.md"
     },
     "steps": [
       {
@@ -19,8 +16,7 @@
         "verify": "step2/verify.sh"
       },{
         "title": "create more",
-        "courseData": "step3/step3-foreground.sh",
-        "code": "step3/step3-background.sh",
+        "background": "step3/step3-background.sh",
         "text": "step3/text.md"
       }
     ],
