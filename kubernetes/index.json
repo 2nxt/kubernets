@@ -2,6 +2,9 @@
   "title": "Kubernetes - pods",
   "description": "This is a lab-1",
   "details": {
+    "intro": {
+      "text":"intro.md"
+    },
     "steps": [
       {
         "title": "Check pods are available in cluster",
@@ -14,14 +17,11 @@
       },
       {
         "title": "create more",
-        
+        "courseData": "step3-background.sh",
         "text": "step3/text.md"
       }
     ],
-      "intro": {
-        "text":"step3/text.md",
-        "courseData": "step3/step3-background.sh"
-      },
+   
     "finish": {
       "text": "finish.md"
     }
