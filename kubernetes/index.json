@@ -16,7 +16,7 @@
         "verify": "step2/verify.sh"
       },{
         "title": "create more",
-        "courseData": "step3/step3-background.sh",
+        "courseData": "step3/step3-foreground.sh",
         "text": "step3/text.md"
       }
     ],
