@@ -3,7 +3,10 @@
   "description": "This is a lab-1",
   "details": {
     "intro": {
-      "text": "intro.md"
+      "text": "intro.md",
+      "courseData": "background.sh",
+      "code": "foreground.sh",
+      "credits": ""
     },
     "steps": [
       {
@@ -21,8 +24,10 @@
         "text": "step3/text.md"
       }
     ],
-    "finish": {
-      "text": "finish.md"
+    "files": [],
+    "environment": {
+        "hidefinish": true,
+        "uilayout": "terminal"
     }
   },
   "backend": {
