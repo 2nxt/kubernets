@@ -20,13 +20,11 @@
         "text": "step3/text.md"
       }
     ],
-    "files": [],
-    "environment": {
-        "hidefinish": true,
-        "uilayout": "terminal"
+    "finish": {
+      "text": "finish.md"
     }
   },
   "backend": {
-    "imageid": "kubernetes-kubeadm-2nodes-ubuntu20.04"
+    "imageid": "kubernetes-kubeadm-1node-ubuntu20.04"
   }
 }
